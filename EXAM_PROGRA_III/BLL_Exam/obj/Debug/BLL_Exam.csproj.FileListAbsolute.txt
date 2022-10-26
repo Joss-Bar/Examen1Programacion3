@@ -1,0 +1,36 @@
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\BLL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\BLL_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\DAL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\DAL_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.CopyComplete
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\bin\Debug\BLL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\bin\Debug\BLL_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\bin\Debug\DAL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\bin\Debug\DAL_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\obj\Debug\BLL_Exam.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\obj\Debug\BLL_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\obj\Debug\BLL_Exam.csproj.CopyComplete
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\obj\Debug\BLL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\BLL_Exam\obj\Debug\BLL_Exam.pdb
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\BLL_Exam.dll
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\BLL_Exam.pdb
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\DAL_Exam.dll
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\DAL_Exam.pdb
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.dll
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.pdb
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\BLL_Exam.dll
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\BLL_Exam.pdb
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\DAL_Exam.dll
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\bin\Debug\DAL_Exam.pdb
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.csproj.CopyComplete
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.dll
+\\Mac\Home\Desktop\EXAM_PROGRA_III\BLL_Exam\obj\Debug\BLL_Exam.pdb

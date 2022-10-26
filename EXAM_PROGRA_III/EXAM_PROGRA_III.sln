@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_Exam", "DAL_Exam\DAL_Exam.csproj", "{4E5C1BA3-D336-4A92-B93B-C889286D951A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_Exam", "BLL_Exam\BLL_Exam.csproj", "{E7CD6845-98BB-415C-AB12-1FDEC766935B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Exam", "UI_Exam\UI_Exam.csproj", "{2D7348F5-ED11-4B2D-9BD8-6D6A614498D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5C1BA3-D336-4A92-B93B-C889286D951A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5C1BA3-D336-4A92-B93B-C889286D951A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5C1BA3-D336-4A92-B93B-C889286D951A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5C1BA3-D336-4A92-B93B-C889286D951A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CD6845-98BB-415C-AB12-1FDEC766935B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CD6845-98BB-415C-AB12-1FDEC766935B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CD6845-98BB-415C-AB12-1FDEC766935B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CD6845-98BB-415C-AB12-1FDEC766935B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7348F5-ED11-4B2D-9BD8-6D6A614498D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7348F5-ED11-4B2D-9BD8-6D6A614498D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7348F5-ED11-4B2D-9BD8-6D6A614498D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7348F5-ED11-4B2D-9BD8-6D6A614498D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EC38038-B3DD-4550-BC26-C3417132F7FF}
+	EndGlobalSection
+EndGlobal

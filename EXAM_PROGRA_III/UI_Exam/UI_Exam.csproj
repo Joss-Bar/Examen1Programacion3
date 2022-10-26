@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D7348F5-ED11-4B2D-9BD8-6D6A614498D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UI_Exam</RootNamespace>
+    <AssemblyName>UI_Exam</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pantallas\Ejercicios\frm_Bingo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\Ejercicios\frm_Bingo.Designer.cs">
+      <DependentUpon>frm_Bingo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\Generales\frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\Generales\frm_Principal.Designer.cs">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Pantallas\Ejercicios\frm_Bingo.resx">
+      <DependentUpon>frm_Bingo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\Generales\frm_Principal.resx">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Recursos\Imagenes\5.png.crdownload" />
+    <None Include="Recursos\Imagenes\9.jpg.crdownload" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Recursos\Enunciado\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Recursos\Iconos\Barkerbaggies-Bag-O-Tiles-T.ico" />
+    <Content Include="Recursos\Iconos\Barkerbaggies-Bag-O-Tiles-X.ico" />
+    <Content Include="Recursos\Iconos\Custo-Man-Christmas-Folder-Games.ico" />
+    <Content Include="Recursos\Iconos\Custom-Icon-Design-Flatastic-7-Test-paper.ico" />
+    <Content Include="Recursos\Iconos\Iconshock-Vista-General-Games.ico" />
+    <Content Include="Recursos\Iconos\Inipagi-Job-Seeker-Test.ico" />
+    <Content Include="Recursos\Iconos\Lgp85-Blue-Crystal-Games.ico" />
+    <Content Include="Recursos\Iconos\Mattahan-Umicons-Letter-T.ico" />
+    <Content Include="Recursos\Iconos\Oxygen-Icons.org-Oxygen-Actions-games-config-board.ico" />
+    <Content Include="Recursos\Iconos\Oxygen-Icons.org-Oxygen-Categories-applications-education-university.ico" />
+    <Content Include="Recursos\Iconos\Tpdkdesign.net-Refresh-Cl-System-Control-Panel.ico" />
+    <Content Include="Recursos\Iconos\Webalys-Kameleon.pics-Student-3.ico" />
+    <Content Include="Recursos\Imagenes\1.jpeg" />
+    <Content Include="Recursos\Imagenes\2.jpg" />
+    <Content Include="Recursos\Imagenes\3.jpg" />
+    <Content Include="Recursos\Imagenes\4.jpg" />
+    <Content Include="Recursos\Imagenes\6.jfif" />
+    <Content Include="Recursos\Imagenes\7.jpg" />
+    <Content Include="Recursos\Imagenes\7.png" />
+    <Content Include="Recursos\Imagenes\8.png" />
+    <Content Include="Recursos\Imagenes\Logout-icon %281%29.png" />
+    <Content Include="Recursos\Imagenes\Logout-icon.png" />
+    <Content Include="Recursos\Imagenes\Question-type-one-correct-icon %281%29.png" />
+    <Content Include="Recursos\Imagenes\Question-type-one-correct-icon.png" />
+    <Content Include="Recursos\Imagenes\Surveys-icon %281%29.png" />
+    <Content Include="Recursos\Imagenes\Surveys-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL_Exam\BLL_Exam.csproj">
+      <Project>{e7cd6845-98bb-415c-ab12-1fdec766935b}</Project>
+      <Name>BLL_Exam</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL_Exam\DAL_Exam.csproj">
+      <Project>{4e5c1ba3-d336-4a92-b93b-c889286d951a}</Project>
+      <Name>DAL_Exam</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

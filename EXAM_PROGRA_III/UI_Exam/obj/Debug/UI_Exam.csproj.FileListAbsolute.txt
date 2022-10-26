@@ -1,0 +1,63 @@
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.exe.config
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.exe
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Properties.Resources.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.exe
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Generales.frm_Principal.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Ejercicios.frm_Bingo.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Ejercicios.frm_Cruz.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Ejercicios.frm_CuatroEsquinas.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Ejercicios.frm_Equis.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\bin\Debug\UI_Exam.exe.config
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\bin\Debug\UI_Exam.exe
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\bin\Debug\UI_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\bin\Debug\BLL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\bin\Debug\DAL_Exam.dll
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\bin\Debug\BLL_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\bin\Debug\DAL_Exam.pdb
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.Pantallas.Ejercicios.frm_Bingo.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.Pantallas.Generales.frm_Principal.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.Properties.Resources.resources
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.csproj.CopyComplete
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.exe
+C:\Users\Nico\Desktop\EXAM_PROGRA_III - Solucionado\UI_Exam\obj\Debug\UI_Exam.pdb
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.exe.config
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.exe
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.pdb
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\BLL_Exam.dll
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\DAL_Exam.dll
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\BLL_Exam.pdb
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\DAL_Exam.pdb
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Ejercicios.frm_Bingo.resources
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Generales.frm_Principal.resources
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.exe
+\\vmware-host\Shared Folders\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.pdb
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.exe.config
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.exe
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\UI_Exam.pdb
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\BLL_Exam.dll
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\DAL_Exam.dll
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\BLL_Exam.pdb
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\bin\Debug\DAL_Exam.pdb
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Ejercicios.frm_Bingo.resources
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Pantallas.Generales.frm_Principal.resources
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.Properties.Resources.resources
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.csproj.CopyComplete
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.exe
+\\Mac\Home\Desktop\EXAM_PROGRA_III\UI_Exam\obj\Debug\UI_Exam.pdb
