@@ -4,6 +4,7 @@ using Cap_Datos;
 
 namespace Cap_Negocios
 {
+    
     public class Cls_Entidades
     {
         Cls_Planilla Objplanilla = new Cls_Planilla();
@@ -20,7 +21,6 @@ namespace Cap_Negocios
         {
             double vObenter = Objplanilla.m_calculosalario(V_salariobase,V_montoventa,V_porcentaje,V_cant_venta);
             return vObenter;
-
         }
 
     }
