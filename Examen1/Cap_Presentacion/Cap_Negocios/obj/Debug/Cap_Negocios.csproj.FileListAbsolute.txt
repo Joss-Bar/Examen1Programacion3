@@ -1,0 +1,27 @@
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Negocios.dll
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Negocios.pdb
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Datos.dll
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Datos.pdb
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.CopyComplete
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.dll
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Negocios.dll
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Negocios.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.CopyComplete
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.dll
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Negocios.dll
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Negocios.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\bin\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.csproj.CopyComplete
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.dll
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Negocios\obj\Debug\Cap_Negocios.pdb

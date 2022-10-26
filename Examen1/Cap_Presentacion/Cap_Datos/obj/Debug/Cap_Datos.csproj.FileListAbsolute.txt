@@ -1,0 +1,18 @@
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Datos\bin\Debug\Cap_Datos.dll
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Datos\bin\Debug\Cap_Datos.pdb
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.dll
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Datos\bin\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Datos\bin\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Datos\bin\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Datos\bin\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Datos\obj\Debug\Cap_Datos.pdb

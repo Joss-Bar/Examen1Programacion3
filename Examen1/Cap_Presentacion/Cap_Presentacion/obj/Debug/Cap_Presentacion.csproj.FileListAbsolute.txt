@@ -1,0 +1,48 @@
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.exe.config
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.exe
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.pdb
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.Properties.Resources.resources
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.exe
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.pdb
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Negocios.dll
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Datos.dll
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Negocios.pdb
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Datos.pdb
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.CopyComplete
+C:\Users\erick\source\repos\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.frmmenu.resources
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.exe.config
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.exe
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Negocios.dll
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Negocios.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.frmmenu.resources
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.Properties.Resources.resources
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.CopyComplete
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.exe
+\\Mac\Home\Desktop\Erick Herrera A_Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.exe.config
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.exe
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Presentacion.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Negocios.dll
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Datos.dll
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Negocios.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\bin\Debug\Cap_Datos.pdb
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.frmmenu.resources
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.Properties.Resources.resources
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.csproj.CopyComplete
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.exe
+\\Mac\Home\Desktop\Examen1\Cap_Presentacion\Cap_Presentacion\obj\Debug\Cap_Presentacion.pdb
